@@ -1,0 +1,25 @@
+# 🌸 Website-Project 専用 .gitignore
+# HTML / CSS / JS プロジェクト向け
+
+# 💻 OS & エディタ関係（自動生成ファイル）
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ⚙️ Live Serverやビルドキャッシュ
+.cache/
+dist/
+build/
+
+# 🎥 大きすぎるメディアファイル
+*.mp4
+*.mov
+*.avi
+
+# 🪵 ログファイル
+*.log
+
+# 🧹 一時ファイル・バックアップファイル
+*.tmp
+*.bak
